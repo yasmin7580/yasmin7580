@@ -16,3 +16,7 @@ Full Stack Web Developer  passionate about building modern , scalable and secure
 - Better Auth 
 - JWT
 
+## Tech Stack 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github"/>
+
+## Contacts 
