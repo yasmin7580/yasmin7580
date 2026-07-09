@@ -20,5 +20,5 @@ Full Stack Web Developer  passionate about building modern , scalable and secure
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github"/>
 
 ## Contacts 
-- email:jerinahmed615@gmail.com
-- https://www.linkedin.com/in/yasmin-jahan-073ab43b5/
+- Email:jerinahmed615@gmail.com
+- LinkedIn:https://www.linkedin.com/in/yasmin-jahan-073ab43b5/
