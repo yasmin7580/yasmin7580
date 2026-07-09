@@ -1,7 +1,7 @@
 # Hi, I'm Yasmin.
 
 ## About Me
-Full Stack Web Developer  passionate about building modern , scalable and secure web application . Skilled in JavaScript | React | Next.js | Node.js | Express.js | MongoDB | Git | GitHub | Better Auth | JWT
+Full Stack Web Developer  passionate about building modern , scalable and secure web application .
 
 
 ## My Skills
@@ -20,5 +20,5 @@ Full Stack Web Developer  passionate about building modern , scalable and secure
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github"/>
 
 ## Contacts 
-email:jerinahmed615@gmail.com
--https://www.linkedin.com/in/yasmin-jahan-073ab43b5/
+- email:jerinahmed615@gmail.com
+- https://www.linkedin.com/in/yasmin-jahan-073ab43b5/
